@@ -1,1 +1,1 @@
-see project description
+see repository description
